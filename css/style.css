@@ -1498,13 +1498,11 @@ table {
 }
 
 @media screen and (max-width: 1024px) {
-  .section-banner {
-    padding-top: 7rem;
-  }
+ 
 }
 
 @media screen and (max-width: 767px) {
-  .section-banner {
-    padding-top: 6.8rem;
+  .item-thethao {
+    padding-top: 3rem !important;
   }
 }
