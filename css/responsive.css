@@ -1,0 +1,543 @@
+@media screen and (max-width: 1024px) {
+  .header-menu-item {
+    font-size: 1.2rem;
+  }
+  .nav-item {
+    padding: 0 1rem;
+  }
+  .title-welcome {
+    font-size: 3rem;
+  }
+  .box-partner {
+    width: 100%;
+  }
+  .title-partner {
+    font-size: 2.2rem;
+  }
+  .li-item-banner {
+    font-size: 1.6rem;
+  }
+  .box-contact .right {
+    padding-left: 0rem;
+  }
+  .btn-link-1 {
+    width: 100%;
+    font-size: 1.5rem;
+  }
+  .how-it {
+    font-size: 3.3rem;
+  }
+  .how-it-works {
+    color: black;
+  }
+  .title-contact {
+    font-size: 2.5rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 0%;
+  }
+  .card-body {
+    max-width: 100%;
+    line-height: 2.5rem;
+    font-size: 1.9rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .btn-link-1 {
+    max-width: 80%;
+  }
+  .header-logo {
+    width: 130px;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 1023.98px) {
+  .background-left {
+    width: 90%;
+    margin-top: 6px;
+  }
+  .hidden-mobile {
+    display: none !important;
+  }
+  .hidden-desktop {
+    display: block !important;
+  }
+  .header li:first-child {
+    margin-left: 0px;
+  }
+  .header li {
+    padding: 5px;
+  }
+  .header ul {
+    margin-top: 10px;
+    align-items: flex-start;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .contact-tele {
+    width: 50px;
+    height: 50px;
+  }
+  .banner-item {
+    flex-direction: column;
+  }
+  .banner-item:nth-child(even) {
+    flex-direction: column-reverse;
+  }
+  .banner-item-left,
+  .banner-item-right {
+    width: 100%;
+  }
+  .banner-item-left {
+    width: 95%;
+    margin-top: 10px;
+  }
+  .list-benefit {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 2rem;
+  }
+  .box-contact {
+    width: 100%;
+  }
+  .item-contact {
+    font-size: 1.8rem;
+  }
+  .list-interest-rate {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  .item-benefit {
+    width: 100%;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.3rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 0%;
+  }
+  .card-body {
+    max-width: 100%;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .btn-link-1 {
+    font-size: 1.4rem;
+    max-width: 100%;
+  }
+  .title-contact {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+}
+
+@media screen and (max-width: 767.98px) {
+  .background-left {
+    width: 95%;
+    margin-top: 6px;
+  }
+  .hidden-mobile {
+    display: none !important;
+  }
+  .hidden-desktop {
+    display: block !important;
+  }
+  .navbar-toggler {
+    font-size: 1rem !important;
+  }
+  .header-group-button {
+    margin-left: 0;
+  }
+  .header-group-button a {
+    margin: 0;
+  }
+  .header-logo {
+    width: 120px;
+  }
+  .header .header-group-button button {
+    padding: 5px 9px;
+    width: auto;
+    font-size: 1rem;
+  }
+  .list-banner .banner-item:nth-child(3) {
+    max-height: 300px !important;
+  }
+  .header ul {
+    align-items: flex-start;
+  }
+  .header ul li {
+    height: 30px;
+  }
+  .header li:first-child {
+    margin-left: 0;
+    margin-top: 2rem;
+  }
+  .title-welcome {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+  .sub-title-welcome {
+    font-size: 1.4rem;
+  }
+  .title-benefit,
+  .title-interest-rate,
+  .title-contact {
+    font-size: 2rem;
+    line-height: 4rem;
+  }
+  .list-interest-rate {
+    display: grid;
+    grid-template-columns: auto;
+  }
+  .title-partner,
+  .title-welcome {
+    font-size: 1.8rem;
+    line-height: 4rem;
+    text-align: center;
+    width: 100%;
+  }
+  .box-legit .item {
+    border-radius: 14px 0 14px 0;
+    width: 150px;
+  }
+  .box-legit .item p {
+    font-size: 1.1rem;
+  }
+  .box-partner ul li {
+    font-size: 1.4rem;
+  }
+  .item-interest-rate {
+    border-radius: 40px !important;
+    padding: 1.5rem;
+  }
+  .list-benefit {
+    grid-template-columns: auto;
+  }
+  .container-benefit,
+  .container-interest-rate,
+  .container-contact {
+    padding-top: 1rem;
+  }
+  .box-benefit {
+    margin-top: 1rem;
+  }
+  .box-contact .left,
+  .box-contact .right {
+    width: 100%;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.2rem;
+  }
+  .legit-icon {
+    width: 35px;
+  }
+  .box-intro-agent .text-intro-agent {
+    font-size: 1.6rem;
+    text-align: justify;
+  }
+  .box-content-slide p {
+    font-size: 1.8rem;
+  }
+  .sub-title-refer {
+    font-size: 2rem !important;
+    line-height: 3rem;
+  }
+  .container-benefit .accordion,
+  .container-interest-rate .accordion {
+    padding: 1rem;
+  }
+  .icon-arrow {
+    width: 25px;
+  }
+  .box-slogan {
+    width: 100%;
+  }
+  .title1 {
+    font-size: 2.2rem !important;
+    text-align: center !important;
+  }
+  .title2 {
+    font-size: 1.8rem !important;
+  }
+  .box-slogan p {
+    text-align: justify;
+    font-size: 1.6rem;
+    padding-top: 2rem;
+  }
+  .container-slogan {
+    padding-top: 0;
+  }
+  .item-benefit p {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+  .item-benefit {
+    width: 100%;
+  }
+  .percent {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .item-refer p,
+  .item-refer ul li,
+  .content-interest-rate p,
+  .content-interest-rate p {
+    font-size: 1.6rem;
+  }
+  .table tr td {
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+  }
+  .group-button-contact {
+    display: flex !important;
+    width: 100%;
+  }
+  .group-button-contact .signup {
+    width: 50%;
+  }
+  .group-button-contact a {
+    width: 50%;
+    margin-left: 2rem;
+  }
+  .group-button-contact .login {
+    width: 100%;
+    margin-left: -37px;
+  }
+  .box-contact {
+    gap: 2rem;
+  }
+  .box-contact .right {
+    padding-left: 2rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    flex-flow: column;
+  }
+  .how-it-works-left {
+    width: 100%;
+    align-items: center;
+  }
+  .how-it-works-right {
+    width: 100%;
+    align-items: center;
+  }
+  .how-it {
+    font-size: 2.5rem;
+  }
+  .card-body {
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .nhapnhay {
+    font-size: 1.8rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 0%;
+  }
+  .card-body {
+    max-width: 100%;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.2rem;
+  }
+  .p-red {
+    color: rgb(235, 0, 0);
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+  }
+  .title-contact {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .timeBN {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .title-refer {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .box-world-cup .title-letter {
+    font-size: 1.9rem;
+    line-height: 2.8rem;
+  }
+  .box-world-cup .title-head {
+    font-size: 1.6rem;
+    margin-top: 0;
+  }
+  .title-bonus {
+    font-size: 2rem;
+  }
+  .title-bonus1 {
+    font-size: 1.8rem;
+  }
+  .box-bonus p {
+    text-align: justify;
+  }
+  .text-tele-sp {
+    width: 250px;
+    bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 666.98px) {
+}
+
+@media screen and (max-width: 374.98px) {
+  .box-legit .item p {
+    font-size: 0.7rem;
+  }
+  .group-button-contact button {
+    width: 100%;
+  }
+  .box-contact .right p {
+    font-size: 1.4rem;
+  }
+  .box-legit .item {
+    border-radius: 14px 0 14px 0;
+    width: 85px;
+  }
+  .item-contact {
+    font-size: 1.4rem;
+  }
+  .title-benefit,
+  .title-interest-rate,
+  .title-contact {
+    font-size: 1.8rem;
+    line-height: 3rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 0%;
+  }
+  .card-body {
+    max-width: 100%;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.4rem;
+  }
+  .p-red {
+    color: rgb(235, 0, 0);
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+  }
+  .timeBN {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .title-refer {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .box-contact .right p {
+    font-size: 1.2rem;
+  }
+  .nhapnhay {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .hidden-desktop {
+    display: none !important;
+  }
+  .hidden-mobile {
+    display: block !important;
+  }
+  .box-legit .item {
+    border-radius: 14px 0 14px 0;
+    width: 80px;
+  }
+  .box-legit .item p {
+    font-size: 0.9rem;
+  }
+  .group-button-contact button {
+    width: 100%;
+  }
+  .box-contact .right p {
+    font-size: 1.4rem;
+  }
+  .item-contact {
+    font-size: 1.4rem;
+  }
+  .title-benefit,
+  .title-interest-rate,
+  .title-contact {
+    font-size: 1.8rem;
+    line-height: 3rem;
+  }
+  .how-it-works {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 0%;
+  }
+  .card-body {
+    max-width: 100%;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    text-align: justify;
+  }
+  .box-contact .right p {
+    padding-left: 0;
+    font-size: 1.4rem;
+  }
+  .p-red {
+    color: rgb(235, 0, 0);
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+  }
+  .timeBN {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .title-refer {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  .box-contact .right p {
+    font-size: 1.2rem;
+  }
+  .nhapnhay {
+    font-size: 1.5rem;
+  }
+}
